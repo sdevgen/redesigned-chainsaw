@@ -1,8 +1,8 @@
 @@||app.efficiency.visma.com^$important
 @@||app.powerbi.com^$important
-@@||images.efficiency.visma.com^$important
 @@||blogger.googleusercontent.com^$important
 @@||cdn.cookielaw.org^$important
+@@||images.efficiency.visma.com^$important
 @@||m.facebook.com^$important
 @@||mqtt-mini.facebook.com^$important
 @@||production.receiver.melcloud.com^$important
@@ -51,9 +51,9 @@
 ||safebrowsing.googleapis.com^$important
 ||sasprod.nettvservices.com^$important
 ||self.events.data.microsoft.com^$important
+||self.events.data.microsoft.com^$important
 ||shavar.prod.mozaws.net^$important
 ||shavar.services.mozilla.com^$important
-||zeasn.tv^$important
 ||support.getboxer.com^$important
 ||telemetry-prod-1054754349.us-east-1.elb.amazonaws.com^$important
 ||telephonyspamprotect-pa.googleapis.com^$important
@@ -61,3 +61,4 @@
 ||uemm.dynatrace.ford.com^$important
 ||userlocation.googleapis.com^$important
 ||vewd.com^$important
+||zeasn.tv^$important
