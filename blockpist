@@ -7,6 +7,7 @@
 @@||mqtt-mini.facebook.com^$important
 @@||production.receiver.melcloud.com^$important
 @@||uemm.dynatrace.ford.com^$important
+@@||global.quickconnect.to^$important
 ||mac-torrent-download.net^$important
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
 ||0.255.168.192.in-addr.arpa^$important
@@ -37,7 +38,6 @@
 ||firefox.settings.services.mozilla.com^$important
 ||geomobileservices-pa.googleapis.com^$important
 ||getboxer^$important
-||global.quickconnect.to^$important
 ||googlehosted.l.googleusercontent.com^$important
 ||graph.facebook.com^$important
 ||incoming-telemetry.thunderbird.net^$important
