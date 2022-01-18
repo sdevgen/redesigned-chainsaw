@@ -7,6 +7,8 @@
 @@||mqtt-mini.facebook.com^$important
 @@||production.receiver.melcloud.com^$important
 @@||uemm.dynatrace.ford.com^$important
+||mac-torrent-download.net^$important
+||geo-applefinance-cache.internal.query.g03.yahoodns.net^$important
 ||0.255.168.192.in-addr.arpa^$important
 ||android.googleapis.com^$important
 ||androidpay-users-pa.googleapis.com^$important
