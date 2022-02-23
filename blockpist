@@ -1,3 +1,4 @@
+# TILLÅT
 @@||app.efficiency.visma.com^$important
 @@||app.powerbi.com^$important
 @@||blogger.googleusercontent.com^$important
@@ -9,11 +10,14 @@
 @@||uemm.dynatrace.ford.com^$important
 @@||global.quickconnect.to^$important
 
+# DENY ALLOW
+||r.existenz.se^$denyallow=existenz.se
+
+# BLOCKERA
 ||accounts-cdn.9gag.com^$important
 ||avatars-cdn.9gag.com^$important
 ||comment.9gag.com^$important
 ||fh.under9.co^$important
-
 ||versioncheck.prod.mozaws.net^$important
 ||msftncsi.com
 ||mac-torrent-download.net^$important
