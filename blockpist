@@ -9,6 +9,7 @@
 @@||production.receiver.melcloud.com^$important
 @@||uemm.dynatrace.ford.com^$important
 @@||global.quickconnect.to^$important
+@@||wabi-west-europe-b-primary-redirect.analysis.windows.net^$important
 
 # DENY ALLOW
 ||r.existenz.se^$denyallow=existenz.se
