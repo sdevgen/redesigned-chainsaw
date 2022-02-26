@@ -1,4 +1,5 @@
 # TILLÅT
+@@||www.sollentuna.se^$important
 @@||app.efficiency.visma.com^$important
 @@||app.powerbi.com^$important
 @@||blogger.googleusercontent.com^$important
@@ -11,10 +12,13 @@
 @@||global.quickconnect.to^$important
 @@||wabi-west-europe-b-primary-redirect.analysis.windows.net^$important
 
-# DENY ALLOW
+# DENY / ALLOW
 ||r.existenz.se^$denyallow=existenz.se
 
 # BLOCKERA
+||nrdp.prod.ftl.netflix.com^$important
+||play.googleapis.com^$important
+###
 ||accounts-cdn.9gag.com^$important
 ||avatars-cdn.9gag.com^$important
 ||comment.9gag.com^$important
