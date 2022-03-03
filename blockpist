@@ -16,6 +16,8 @@
 ||r.existenz.se^$denyallow=existenz.se
 
 # BLOCKERA
+||sendbird.com^
+###
 ||nrdp.prod.ftl.netflix.com^$important
 ||play.googleapis.com^$important
 ###
