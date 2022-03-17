@@ -11,6 +11,7 @@
 @@||uemm.dynatrace.ford.com^$important
 @@||global.quickconnect.to^$important
 @@||wabi-west-europe-b-primary-redirect.analysis.windows.net^$important
+@@||www.jula.se^$important
 
 # DENY / ALLOW
 ||r.existenz.se^$denyallow=existenz.se
@@ -19,7 +20,6 @@
 ||sendbird.com^
 ###
 ||nrdp.prod.ftl.netflix.com^$important
-||play.googleapis.com^$important
 ###
 ||accounts-cdn.9gag.com^$important
 ||avatars-cdn.9gag.com^$important
