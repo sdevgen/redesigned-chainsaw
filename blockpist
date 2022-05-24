@@ -12,6 +12,7 @@
 @@||global.quickconnect.to^$important
 @@||wabi-west-europe-b-primary-redirect.analysis.windows.net^$important
 @@||www.jula.se^$important
+@@||www.brollopsguiden.se^$important
 
 # DENY / ALLOW
 ||r.existenz.se^$denyallow=existenz.se
