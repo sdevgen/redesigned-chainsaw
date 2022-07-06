@@ -13,6 +13,9 @@
 @@||wabi-west-europe-b-primary-redirect.analysis.windows.net^$important
 @@||www.jula.se^$important
 @@||www.brollopsguiden.se^$important
+@@||t.co^$important
+@@||mobile.pipe.aria.microsoft.com^$important
+@@||officeclient.microsoft.com^$important
 
 # DENY / ALLOW
 ||r.existenz.se^$denyallow=existenz.se
