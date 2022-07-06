@@ -18,6 +18,11 @@
 ||r.existenz.se^$denyallow=existenz.se
 
 # BLOCKERA
+*** Creatly
+||file-cdn.creality.com^$important
+||api.ultimaker.com^$important
+||model-admin.crealitygroup.com^$important
+||model-admin2.creality.com^$important
 ||sendbird.com^
 ###
 ||nrdp.prod.ftl.netflix.com^$important
