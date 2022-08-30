@@ -16,6 +16,19 @@
 @@||t.co^$important
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||officeclient.microsoft.com^$important
+###
+@@||www.swedavia.se^$important
+@@||web.whatsapp.com^$important
+@@||mmg.whatsapp.net^$important
+@@||media-hel3-1.cdn.whatsapp.net^$important
+@@||media-arn2-2.cdn.whatsapp.net^$important
+@@||media-arn2-1.cdn.whatsapp.net^$important
+@@||dit.whatsapp.net^$important
+@@||api.powerbi.com^$important
+@@||api.ipify.org^$important
+@@||nexus.officeapps.live.com^$important
+@@||dns.msftncsi.com^$important
+
 
 # DENY / ALLOW
 ||r.existenz.se^$denyallow=existenz.se
@@ -27,6 +40,10 @@
 ||model-admin.crealitygroup.com^$important
 ||model-admin2.creality.com^$important
 ||sendbird.com^
+###
+||level3.blizzard.com^$important
+||blzddist1-a.akamaihd.net^$important
+||us.cdn.blizzard.com^$important
 ###
 ||nrdp.prod.ftl.netflix.com^$important
 ###
