@@ -34,6 +34,11 @@
 ||r.existenz.se^$denyallow=existenz.se
 
 # BLOCKERA
+||location.services.mozilla.com^$important
+||static-media-prod-cdn.itsre-sumo.mozilla.net^$important
+||prod-tp.sumo.mozit.cloud^$important
+||client-office365-tas.msedge.net^$important
+||checkappexec.microsoft.com^$important
 *** Creatly
 ||file-cdn.creality.com^$important
 ||api.ultimaker.com^$important
