@@ -31,7 +31,6 @@
 
 
 # DENY / ALLOW
-||r.existenz.se^$denyallow=existenz.se
 
 # BLOCKERA
 ||cartocdn.com^$important
